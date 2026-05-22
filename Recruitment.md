@@ -217,7 +217,7 @@
 
       <div class="right">
 
-        <img src="logo putih 2.jpg" class="logo">
+        <img src="logo putih 2.jpg" class="logo">(/assets/images/foto.jpg)
 
         <div class="left">
 		<div class="tagline">
